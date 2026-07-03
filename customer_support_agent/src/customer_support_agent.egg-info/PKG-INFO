@@ -1,0 +1,10 @@
+Metadata-Version: 2.4
+Name: customer-support-agent
+Version: 0.1.0
+Summary: Grounded customer-support RAG agent for SOP documents
+Requires-Python: >=3.10
+Requires-Dist: pydantic>=2.7
+Requires-Dist: scikit-learn>=1.4
+Requires-Dist: numpy>=1.26
+Requires-Dist: fastapi>=0.111
+Requires-Dist: uvicorn>=0.30

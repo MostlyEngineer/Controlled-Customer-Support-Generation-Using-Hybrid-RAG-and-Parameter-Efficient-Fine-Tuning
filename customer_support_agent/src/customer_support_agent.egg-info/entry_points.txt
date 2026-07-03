@@ -1,0 +1,2 @@
+[console_scripts]
+support-agent = support_agent.cli:main
